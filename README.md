@@ -61,8 +61,7 @@ uv lock --check
 uv build
 ```
 
-See [docs/architecture.md](docs/architecture.md) for the data flow and
-[CONTRIBUTING.md](CONTRIBUTING.md) for the contribution boundary.
+See [docs/architecture.md](docs/architecture.md) for the data flow.
 
 ## License
 

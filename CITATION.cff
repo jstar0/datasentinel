@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-title: "DataSentinel"
-message: "If you use this work, please cite the repository and release."
-type: software
-authors:
-  - family-names: "JStar"
-version: "0.1.0"
-date-released: "2026-09-04"
-license: MIT
